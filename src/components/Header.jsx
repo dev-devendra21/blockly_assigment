@@ -2,7 +2,7 @@ import { useContext, useState } from "react";
 import Logo from "../assets/Logo.svg";
 import Moon from "../assets/Moon.png";
 import Sun from "../assets/sun.png";
-import LightLogo from "../assets/Light_logo.png";
+import LightLogo from "../assets/light_logo.png";
 import ThemeContext from "../context/ThemeContext";
 import { Link } from "react-router-dom";
 
@@ -13,7 +13,7 @@ const Header = () => {
   const handleNavToggle = () => setIsNavOpen(!isNavOpen);
 
   const navItems = [
-    { label: "Home", href: "home" },
+    { label: "Home", href: "/" },
     { label: "About", href: "about" },
     { label: "Resume", href: "projects" },
     { label: "Skills", href: "contact" },
