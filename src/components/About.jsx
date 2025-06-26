@@ -15,7 +15,7 @@ import Koo_dark from "../assets/koo_dark.png";
 import Facebook from "../assets/Facebook.png";
 import Instagram from "../assets/Instagram.png";
 import Twitter from "../assets/Twitter.png";
-import Github from "../assets/Github.png";
+import Github from "../assets/GitHub.png";
 import LinkedIn from "../assets/LinkedIn.png";
 import Telegram from "../assets/Telegram.png";
 import Koo from "../assets/Koo.png";
